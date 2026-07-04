@@ -71,6 +71,7 @@
 		<meta property="se:name.person.full-name" refines="#translator-1">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/C._D._Yonge</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/n86829770</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Benjamin Franklin</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Franklin, Benjamin</meta>

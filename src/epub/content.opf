@@ -49,8 +49,9 @@
 		<meta property="term" refines="#subject-6">sh85115180</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<meta property="schema:abstract">A philosophical dialogue by Cicero discussing the theological views Epicureanism, Stoicism, and Academic Skepticism.</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">LONG_DESCRIPTION</meta>
+		<dc:description id="description">
+			&lt;p&gt;On the Nature of the Gods is a philosophical work written by &lt;a href="https://standardebooks.org/ebooks/cicero"&gt;Marcus Tullius Cicero&lt;/a&gt; around 45 BC. It is composed as a discussion between Velleius, Balbus, and Cotta each representing a philosophical school: Epicureanism, Stoicism, and Academic Skepticism. Each presents a discourse on their ideas about whether the gods exists and what we can know about them. The work was highly inflential to several 18th century philosophers including &lt;a href="https://standardebooks.org/ebooks/david-hume"&gt;David Hume&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/voltaire"&gt;Voltaire&lt;/a&gt;.&lt;/p&gt;
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14988</dc:source>
 		<dc:source>IA_URL</dc:source>
